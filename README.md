@@ -42,6 +42,11 @@ ________________________________________________________________________________
           - This program simulates a simplified version of the Scrabble word game. Two players enter words, and the program calculates each word’s score based on Scrabble letter values, then determines the winner.
           - It is implemented in C using concepts such as arrays, strings, ASCII manipulation, conditionals, and functions.
           - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
+       
+      - 🧾 Readability
+          - This program computes the readability grade level of a given text using the Coleman–Liau index, which estimates the U.S. school grade required to understand the text.
+          - It is implemented in C using concepts such as loops, strings, ASCII classification, floating-point math, and functions.
+          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/readability/README.md)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
