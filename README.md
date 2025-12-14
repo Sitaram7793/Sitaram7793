@@ -23,8 +23,12 @@ ________________________________________________________________________________
 ### 🔹 CS50 Assignments
 - A collection of completed problem sets from the Harvard CS50 course:
   - Week0: 🎯 Bottle Shooter — Scratch Game
-  - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
-  - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
+      - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
+      - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
+ 
+  - Week1: 🧱 Mario-more
+      - This program recreates a double half-pyramid similar to the one seen in Super Mario Bros., using hashes (#) for bricks. The user is prompted for a height between 1 and 8, and the program prints two pyramids separated by two spaces.
+      - [Further details on Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
