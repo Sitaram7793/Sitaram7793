@@ -22,9 +22,10 @@ ________________________________________________________________________________
 
 ### 🔹 CS50 Assignments
 - A collection of completed problem sets from the Harvard CS50 course:
-  - Week0: 🎯 Bottle Shooter — Scratch Game
-      - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
-      - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
+  - Week0:
+      - 🎯 Bottle Shooter — Scratch Game
+          - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
+          - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
  
   - Week1:
       - 🧱 Mario-more
