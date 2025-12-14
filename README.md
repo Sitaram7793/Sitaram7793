@@ -1,17 +1,34 @@
 ## 👋 Hi, I’m Sitaram Dalvi  
-AI enthusiast & PMP-certified Project Manager with 10+ years in the automotive industry.  
-Currently transitioning into AI / ML Project Management, learning Python, SQL, and AI tools.
+> AI enthusiast & PMP-certified Project Manager with 10+ years of experience.
+> On a way to transitioning into AI / ML Project Management.
 
-- 🚗 Working at: Škoda Auto Volkswagen India  
-- 🧠 Learning: Python, Pandas, Matplotlib, Seaborn, SQL  
+- 💼 Working at: Škoda Auto Volkswagen India as a Procurement Project Manager
+- 🧠 Learning:
+    - Data Science / Data Analytics with GenAI from TOPMENTOR
+    - CS50 from Harvard
 - 📊 Building: Data Analytics & ML projects on GitHub  
 - 🎯 Goal: Combine AI + Project Management for data-driven product delivery  
 - 🎵 Fun fact: Learning to play the Pakhwaj (Indian classical percussion)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### 🧰 Skills
+## 🧰 Skills
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management`
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### 🔗 Connect with Me
+## 👀What I want you to see here on my page :
+
+### 🔹 📊 Data Analysis using Matplotlib and Seaborn
+- Using "Sample - Superstore" data, I have demonstrated my data analysis skills with Matplotlib and Seaborn in Python
+- [Further details on Data Analysis using Matplotlib and Seaborn](https://github.com/Sitaram7793/Python/blob/main/02-data_analysis/README.md)
+
+### 🔹 CS50 Assignments
+- A collection of completed problem sets from the Harvard CS50 course:
+  - Week0: 🎯 Bottle Shooter — Scratch Game
+  - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
+  - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🔗 Connect with Me
 www.linkedin.com/in/sitaram-dalvi-project-management-professional
 
 📧 dalvikapil1@gmail.com
