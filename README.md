@@ -35,6 +35,12 @@ ________________________________________________________________________________
           - This program validates a credit card number using Luhn’s Algorithm and identifies the card type
           - It is implemented in C using concepts such as loops, strings, input validation, and arithmetic operations
           - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
+       
+  - Week2:
+      - 🧾 Scrabble
+          - This program simulates a simplified version of the Scrabble word game. Two players enter words, and the program calculates each word’s score based on Scrabble letter values, then determines the winner.
+          - It is implemented in C using concepts such as arrays, strings, ASCII manipulation, conditionals, and functions.
+          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
