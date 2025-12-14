@@ -28,13 +28,13 @@ ________________________________________________________________________________
  
   - Week1:
       - 🧱 Mario-more
-      - This program recreates a double half-pyramid similar to the one seen in Super Mario Bros., using hashes (#) for bricks. The user is prompted for a height between 1 and 8, and the program prints two pyramids separated by two spaces.
-      - [Further details on Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
+          - This program recreates a double half-pyramid similar to the one seen in Super Mario Bros., using hashes (#) for bricks. The user is prompted for a height between 1 and 8, and the program prints two pyramids separated by two spaces.
+          - [Further details on Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
    
       - 🧾 Credit Card Validator
-      - This program validates a credit card number using Luhn’s Algorithm and identifies the card type
-      - It is implemented in C using concepts such as loops, strings, input validation, and arithmetic operations
-      - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
+          - This program validates a credit card number using Luhn’s Algorithm and identifies the card type
+          - It is implemented in C using concepts such as loops, strings, input validation, and arithmetic operations
+          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
