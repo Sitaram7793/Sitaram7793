@@ -1,24 +1,33 @@
-## 👋 Hi, I’m Sitaram Dalvi  
+# 👋 Hi, I’m Sitaram Dalvi  
 AI enthusiast & PMP-certified Project Manager with 10+ years of experience. On a way to transitioning into AI / ML Project Management.
 
 - 💼 Working at: Škoda Auto Volkswagen India as a Procurement Project Manager
-- 🧠 Learning:
+- 🧠 Pursuing:
     - Data Science / Data Analytics with GenAI from TOPMENTOR
-    - HarvardX CS50x - CS50's Introduction to Computer Science 
+    - Harvard CS50's Introduction to Computer Science 
 - 📊 Building: Data Analytics & ML projects on GitHub  
 - 🎯 Goal: Combine AI + Project Management for data-driven product delivery  
 - 🎵 Fun fact: Learning to play the Pakhwaj (Indian classical percussion)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 🧰 Skills
+# 🧰 Skills
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management`
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 👀What I want you to see here on my page :
+# 👀What I want you to see here on my page :
 
-### 🔹 📊 Data Analysis using Matplotlib and Seaborn
+## 🤖 Machine Learning Projects
+### 🏠 Linear Regression House Price
+- This project builds an end-to-end Linear Regression model to predict house prices in India based on property area.
+- [Further details on Linear Regression House Price](https://github.com/Sitaram7793/Python/blob/main/03-machine-learning-models/01_linear_regression_house_price/README.md)
+
+---
+
+### 🔹 📊 Data Analysis Projects
 - Using "Sample - Superstore" data, I have demonstrated my data analysis skills with Matplotlib and Seaborn in Python
 - [Further details on Data Analysis using Matplotlib and Seaborn](https://github.com/Sitaram7793/Python/blob/main/02-data_analysis/README.md)
+
+---
 
 ### 🔹 CS50 Assignments
 - A collection of completed problem sets from the Harvard CS50 course:
