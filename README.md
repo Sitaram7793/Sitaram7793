@@ -32,30 +32,19 @@ ________________________________________________________________________________
 ### 🔹 CS50 Assignments
 - A collection of completed problem sets from the Harvard CS50 course:
   - Week0:
-      - 🎯 Bottle Shooter — Scratch Game
-          - Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
-          - [Further details on Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
+      - [🎯 Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
  
   - Week1:
-      - 🧱 Mario-more
-          - This program recreates a double half-pyramid similar to the one seen in Super Mario Bros., using hashes (#) for bricks. The user is prompted for a height between 1 and 8, and the program prints two pyramids separated by two spaces.
-          - [Further details on Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
+      - [🧱 Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
    
-      - 🧾 Credit Card Validator
-          - This program validates a credit card number using Luhn’s Algorithm and identifies the card type
-          - It is implemented in C using concepts such as loops, strings, input validation, and arithmetic operations
-          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
+      - [🧾 Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
        
   - Week2:
-      - 🧾 Scrabble
-          - This program simulates a simplified version of the Scrabble word game. Two players enter words, and the program calculates each word’s score based on Scrabble letter values, then determines the winner.
-          - It is implemented in C using concepts such as arrays, strings, ASCII manipulation, conditionals, and functions.
-          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
+      - [🧾 Scrabble](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
+
+      - [🧾 Readability](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/readability/README.md)
        
-      - 🧾 Readability
-          - This program computes the readability grade level of a given text using the Coleman–Liau index, which estimates the U.S. school grade required to understand the text.
-          - It is implemented in C using concepts such as loops, strings, ASCII classification, floating-point math, and functions.
-          - [Further details on Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/readability/README.md)
+      - [🧾 Caesar Cipher](https://github.com/me50/Sitaram7793/tree/cs50/problems/2025/x/caesar)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
