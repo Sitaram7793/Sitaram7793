@@ -36,15 +36,15 @@ ________________________________________________________________________________
  
   - Week1:
       - [🧱 Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
-   
       - [🧾 Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
        
   - Week2:
       - [🧾 Scrabble](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
-
       - [🧾 Readability](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/readability/README.md)
-       
       - [🧾 Caesar Cipher](https://github.com/me50/Sitaram7793/tree/cs50/problems/2025/x/caesar)
+   
+  - Week3:
+      - [🧾 Plurality voting system](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/plurality/README.md)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🔗 Connect with Me
