@@ -16,7 +16,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 🧰 Skills
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management`
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management` . `PowerBI`
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 👀What I want you to see here on my page :
@@ -26,11 +26,20 @@ ________________________________________________________________________________
 - This project builds an end-to-end Machine Learning pipeline to predict house prices in India using Linear Regression. It demonstrates the complete ML workflow — from data analysis and visualization to model building, evaluation, and deployment through a simple web app.
 - [Further details on Linear Regression House Price](https://github.com/Sitaram7793/AI_ML_projects/blob/main/01_linear_regression_house_price/README.md)
 
+### 📈 Linear Regression Salary vs Years of Experience
+- This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
+- [Further details on Linear Regression Salary vs Years of Experience](https://github.com/Sitaram7793/AI_ML_projects/blob/main/02_linear%20regression_years_vs_experience/README.md)
+
 ---
 
-### 🔹 📊 Data_Analysis_Projects
+## 📊 Data_Analysis_Projects
+### Data Analysis using Python (Matplotlib and Seaborn)
 - Using "Sample - Superstore" data, I have demonstrated my data analysis skills with Matplotlib and Seaborn in Python
-- [Further details on Data Analysis using Matplotlib and Seaborn](https://github.com/Sitaram7793/Python/blob/main/02-data_analysis/README.md)
+- [Further details on Data Analysis using Python (Matplotlib and Seaborn)](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/01_data_analysis_with_Python/README.md)
+
+### Airline Flight Delay Analysis Dashboard (Power BI)
+- Built an interactive Power BI dashboard to analyze airline flight delays, uncover key delay causes, and evaluate airport and carrier performance using the aviation dataset.
+- [Further details on Airline Flight Delay Analysis Dashboard (Power BI)](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/02_data_analysis_with_PowerBI/README.md)
 
 ---
 
