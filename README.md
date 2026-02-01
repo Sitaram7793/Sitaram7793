@@ -30,6 +30,10 @@ ________________________________________________________________________________
 - This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
 - [Further details on Linear Regression Salary vs Years of Experience](https://github.com/Sitaram7793/AI_ML_projects/blob/main/02_linear%20regression_years_vs_experience/README.md)
 
+### 🚴 Bike Demand Prediction & Smart Forecasting App
+- This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
+- [Further details on Bike Demand Prediction & Smart Forecasting App](https://github.com/Sitaram7793/AI_ML_projects/blob/main/03_bike_sharing_demand/README.md)
+
 ---
 
 ## 📊 Data_Analysis_Projects
