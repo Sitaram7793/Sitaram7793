@@ -34,6 +34,10 @@ ________________________________________________________________________________
 - This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
 - [Further details on Bike Demand Prediction & Smart Forecasting App](https://github.com/Sitaram7793/AI_ML_projects/blob/main/03_bike_sharing_demand/README.md)
 
+### 🏦 Loan Approval Prediction System (Decision Tree + Flask Web App)
+- This project implements an end-to-end Machine Learning system to predict loan approval outcomes based on applicant demographic, financial, and credit-related attributes.
+- [Further details on Loan Approval Prediction System (Decision Tree + Flask Web App)](https://github.com/Sitaram7793/AI_ML_projects/blob/main/04_decision_tree_loan_approval/README.md)
+
 ---
 
 ## 📊 Data_Analysis_Projects
