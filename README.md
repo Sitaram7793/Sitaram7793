@@ -7,69 +7,48 @@ AI enthusiast & PMP-certified Project Manager with 10+ years of experience. On a
 - 🎯 Goal: Combine AI + Project Management for data-driven product delivery  
 - 🎵 Fun fact: Learning to play the Pakhwaj (Indian classical percussion)
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+---
 
 # 📜 Certifications
 - Harvard CS50's Introduction to Computer Science
 - PMP | Certified Scrum Master
 - JIRA | MS Projects
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+---
 
 # 🧰 Skills
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management` . `PowerBI`
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+---
 
 # 👀What I want you to see here on my page :
 
 ## 🤖 AI_ML_projects
-### 🏠 Linear Regression House Price
-- This project builds an end-to-end Machine Learning pipeline to predict house prices in India using Linear Regression. It demonstrates the complete ML workflow — from data analysis and visualization to model building, evaluation, and deployment through a simple web app.
-- [Further details on Linear Regression House Price](https://github.com/Sitaram7793/AI_ML_projects/blob/main/01_linear_regression_house_price/README.md)
-
-### 📈 Linear Regression Salary vs Years of Experience
-- This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
-- [Further details on Linear Regression Salary vs Years of Experience](https://github.com/Sitaram7793/AI_ML_projects/blob/main/02_linear%20regression_years_vs_experience/README.md)
-
-### 🚴 Bike Demand Prediction & Smart Forecasting App
-- This project demonstrates how Simple Linear Regression can be used to model the relationship between Years of Experience and Salary. The goal is to understand how salary grows with experience and evaluate how well a linear model fits the data.
-- [Further details on Bike Demand Prediction & Smart Forecasting App](https://github.com/Sitaram7793/AI_ML_projects/blob/main/03_bike_sharing_demand/README.md)
-
-### 🏦 Loan Approval Prediction System (Decision Tree + Flask Web App)
-- This project implements an end-to-end Machine Learning system to predict loan approval outcomes based on applicant demographic, financial, and credit-related attributes.
-- [Further details on Loan Approval Prediction System (Decision Tree + Flask Web App)](https://github.com/Sitaram7793/AI_ML_projects/blob/main/04_decision_tree_loan_approval/README.md)
-
----
+|No.	|Project	ML Technique	|Problem Type| Link to README|
+|-|-|-|-|
+|01	|Linear Regression – House Price Prediction	Multiple Linear Regression	|Regression|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/01_linear_regression_house_price/README.md)|
+|02	|Student Performance Prediction	Linear Regression	|Regression|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/02_linear_regression_student_performance/README.md)|
+|03	|Heart Disease Risk Prediction	Logistic Regression	|Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/03_logistic_regression_heart_disease_risk/README.md)|
+|04	|Predictive Maintenance (Machine Failure)	Logistic Regression	|Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/04_logistic_regression_machine_predictive_maintenance/README.md)|
+|05	|Bike Sharing Demand	Random Forest Regressor	|Regression|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/05_bike_sharing_demand_random_forest/README.md)|
+|06	|Loan Approval Prediction	Decision Tree Classifier	|Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/06_decision_tree_loan_approval/README.md)|
+|07	|Breast Cancer Diagnosis	K-Nearest Neighbors	|Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/07_KNN_breast_cancer_diagnostic/README.md)|
+|08	|SMS Spam Detection	Naive Bayes + NLP	Text |Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/08_NLP_%26_Naive_Bayes_SMS_spam_detection/README.md)|
+|09	|Mall Customer Segmentation	K-Means Clustering	|Unsupervised Learning|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/09_K-mean_clustering_mall_customer_segmentation/README.md)|
+|10	|Bank Customer Churn	Artificial Neural Network	|Deep Learning Classification|[Link](https://github.com/Sitaram7793/AI_ML_projects/blob/main/10_ANN_bank_customer_churn/README.md)|
 
 ## 📊 Data_Analysis_Projects
-### Data Analysis using Python (Matplotlib and Seaborn)
-- Using "Sample - Superstore" data, I have demonstrated my data analysis skills with Matplotlib and Seaborn in Python
-- [Further details on Data Analysis using Python (Matplotlib and Seaborn)](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/01_data_analysis_with_Python/README.md)
+|No.	|Project	ML Technique	|Problem Type| Link to README|
+|-|-|-|-|
+|01	|Data Analysis	|Python (Matplotlib and Seaborn)|[Link](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/01_data_analysis_with_Python/README.md)|
+|02	|Airline Flight Delay Analysis	|Power BI dashboard|[Link](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/02_data_analysis_with_PowerBI/README.md)|
 
-### Airline Flight Delay Analysis Dashboard (Power BI)
-- Built an interactive Power BI dashboard to analyze airline flight delays, uncover key delay causes, and evaluate airport and carrier performance using the aviation dataset.
-- [Further details on Airline Flight Delay Analysis Dashboard (Power BI)](https://github.com/Sitaram7793/Data_analysis_projects/blob/main/02_data_analysis_with_PowerBI/README.md)
+### 🔹 CS50 Assignments
+- A collection of completed problem sets from the Harvard CS50's Introduction to Computer Science course - [Link](https://github.com/Sitaram7793/CS50-assignments)
 
 ---
 
-### 🔹 CS50 Assignments
-- A collection of completed problem sets from the Harvard CS50 course:
-  - Week0:
-      - [🎯 Bottle Shooter — Scratch Game](https://github.com/Sitaram7793/CS50-assignments/blob/main/Week0-Scratch-Bottle%20Shooter/README.md)
- 
-  - Week1:
-      - [🧱 Mario-more](https://github.com/code50/213642997/blob/main/mario-more/README.md)
-      - [🧾 Credit Card Validator](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/credit/README.md)
-       
-  - Week2:
-      - [🧾 Scrabble](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/scrabble/README.md)
-      - [🧾 Readability](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/readability/README.md)
-      - [🧾 Caesar Cipher](https://github.com/me50/Sitaram7793/tree/cs50/problems/2025/x/caesar)
-   
-  - Week3:
-      - [🧾 Plurality voting system](https://github.com/me50/Sitaram7793/blob/cs50/problems/2025/x/plurality/README.md)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## 🔗 Connect with Me
-www.linkedin.com/in/sitaram-dalvi-project-management-professional
-
-📧 dalvikapil1@gmail.com
+LinkedIn: www.linkedin.com/in/sitaram-dalvi-project-management-professional  
+Gmail: 📧 dalvikapil1@gmail.com  
+Contact: +91 7666109907 / 7385944900  
