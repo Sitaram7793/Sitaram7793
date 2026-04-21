@@ -2,14 +2,14 @@
 AI enthusiast & PMP-certified Project Manager with 10+ years of experience. On a way to transitioning into AI / ML Project Management.
 
 - 💼 Working at: Škoda Auto Volkswagen India as a Procurement Project Manager
-- 🧠 Pursuing: Data Science / Data Analytics with GenAI from TOPMENTOR
-- 📊 Building: Data Analytics & ML projects on GitHub  
+- 📊 Building: Data Analytics & AI/ML projects on GitHub  
 - 🎯 Goal: Combine AI + Project Management for data-driven product delivery  
 - 🎵 Fun fact: Learning to play the Pakhwaj (Indian classical percussion)
 
 ---
 
 # 📜 Certifications
+- Masters in Artificial Intelligence by Topmentor
 - Harvard CS50's Introduction to Computer Science
 - PMP | Certified Scrum Master
 - JIRA | MS Projects
