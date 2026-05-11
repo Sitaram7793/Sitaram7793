@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sitaram Dalvi  
-AI enthusiast & PMP-certified Project Manager with 10+ years of experience. On a way to transitioning into AI / ML Project Management.
+AI/ML and Data Analytics professional with 10+ years of experience in program and project management across the automotive industry. Currently building practical AI, GenAI, and analytics solutions using Python, SQL, Power BI, and modern LLM technologies.
 
 - 💼 Working at: Škoda Auto Volkswagen India as a Procurement Project Manager
 - 📊 Building: Data Analytics & AI/ML projects on GitHub  
@@ -17,7 +17,21 @@ AI enthusiast & PMP-certified Project Manager with 10+ years of experience. On a
 ---
 
 # 🧰 Skills
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `SQL` · `Project Management` . `PowerBI`
+
+### Programming & Analytics
+`Python` · `SQL` · `Pandas` · `NumPy` · `Power BI`
+
+### Machine Learning & AI
+`Scikit-learn` · `NLP` · `Deep Learning` · `Transformers` · `GenAI`
+
+### GenAI & RAG
+`LangChain` · `FAISS` · `Google Gemini API` · `Sentence Transformers`
+
+### Cloud & Tools
+`GCP` · `GitHub` · `Jupyter Notebook` · `Streamlit`
+
+### Project & Delivery
+`PMP` · `Agile` · `Scrum` · `JIRA`
 
 ---
 
